@@ -3,7 +3,7 @@ AWS Marketplace
 ################
 
 Publish algorithm on the AWS Marketplace
-===========================================
+========================================
 
 Create your algorithm and model package
 ----------------------------------------
